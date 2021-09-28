@@ -43,7 +43,7 @@ EBS 온라인 클래스 API
         "courseCopyAgreeYn": "강좌 복사 여부", // Y 또는 N
         "courseCopyAgreeDate": "",
         "schoolYear": "2021",
-        "schoolTypeCode": "M", // Middle School의 M 이라고 추정
+        "schoolTypeCode": "M", // 초등 E, 중학 M, 고등 H값임.
         "schoolTypeCodeName": "학교 수준 이름", // 중학교 또는 고등학교 등등
         "schoolGradeCode": "학교 학년 코드", // M03 = 중학생 3학년으로 추정
         "schoolGradeCodeName": "학년",
